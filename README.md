@@ -24,7 +24,9 @@
 >
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=RakeshGudur&label=Profile%20views&color=0e75b6&style=flat" alt="RakeshGudur" /> </p>
-I am from  Maharashtra, India. I am a technology enthusiast, competent, well-focused Back-End developer👨‍💻. I am passionate about building fully functional web applications.
+I am from  Maharashtra, India. I am a technology enthusiast, competent, well-focused Back-End developer👨‍💻. 
+I am passionate about building fully functional web applications.
+
 
 I am skilled in HTML, CSS, Javascript, ReactJS, Redux, React Router, NodeJS. I am good in data structure and algorithms.
 - 👨‍💻 All of my projects are available at [https://github.com/Rakesh7420](https://github.com/Rakesh7420)
