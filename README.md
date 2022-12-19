@@ -4,7 +4,7 @@
     I'm Rakesh Gudur...
 </h1>                 
 <h2 align="center">
-  💻 Software Developer
+  An Aspiring Java Developer
 </h2>
 
  <img align="center" src="https://www.arkasoftwares.com/blog/wp-content/uploads/2021/01/header_banner-2.jpg" />
