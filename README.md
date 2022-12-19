@@ -26,7 +26,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=RakeshGudur&label=Profile%20views&color=0e75b6&style=flat" alt="RakeshGudur" /> </p>
 
 - 👨‍💻 All of my projects are available at [https://github.com/Rakesh7420](https://github.com/Rakesh7420)
-- 
 - Checkout my portfolio available at [https://rakesh7420.github.io/]
 
 - 💬 Ask me about **JAVA**
