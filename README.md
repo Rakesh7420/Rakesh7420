@@ -28,7 +28,7 @@ I am from  Maharashtra, India. I am a technology enthusiast, competent, well-foc
 I am passionate about building fully functional web applications.
 
 
-I am skilled in HTML, CSS, Javascript, ReactJS, Redux, React Router, NodeJS. I am good in data structure and algorithms.
+- I am skilled in HTML, CSS, Javascript, Java, Sql, Hibernate, SpringBoot, Postman, Swagger. I am good in data structure and algorithms.
 - 👨‍💻 All of my projects are available at [https://github.com/Rakesh7420](https://github.com/Rakesh7420)
 - Linkedin [https://www.linkedin.com/in/rakeshgudur/]
 - Resume [https://drive.google.com/file/d/1-t-l9HwsEu0qEXKRCjFiQOThfvOWYpgZ/view?usp=share_link]
