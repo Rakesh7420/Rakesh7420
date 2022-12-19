@@ -34,7 +34,7 @@ I am passionate about building fully functional web applications.
 - Resume [https://drive.google.com/file/d/1-t-l9HwsEu0qEXKRCjFiQOThfvOWYpgZ/view?usp=share_link]
 - Portfolio [https://rakesh7420.github.io/]
 
-- 💬 Ask me about **JAVA**
+- 💬 Ask me about **JAVA, SQl, Hibernate, SpringBoot**
 
 - 📫 How to reach me **rakeshgudur7420@gmail.com**
 
