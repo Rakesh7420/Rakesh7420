@@ -71,11 +71,11 @@ I am passionate about building fully functional web applications.
 
 <br /><br />
 
-## 🎯Trophy & 📈Stats :
+<!-- ## 🎯Trophy & 📈Stats :
 
 | [![trophy](https://github-profile-trophy.vercel.app/?username=Rakesh7420)](https://github.com/Rakesh7420/github-profile-trophy) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rakesh7420&layout=compact)](https://github.com/Rakesh7420/github-readme-stats) |
 | :-----------------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------: |
-
+ -->
 | ![Rakesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rakesh7420&show_icons=true&theme=dark) | ![Rakesh's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Rakesh7420&theme=dark) |
 | :-----------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------: |
 
